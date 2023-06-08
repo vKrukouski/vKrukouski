@@ -1,6 +1,6 @@
 👋 Hello World, I'm Vadzim Krukouski!
 
-🔬🎓 With a solid foundation in biotechnology, having earned my degree, I am now on an exciting journey as a Master's in Engineering student, specializing in Bioinformatics, at the prestigious Wrocław University of Environmental and Life Sciences. The realms of bioinformatics, biotechnology, and data science captivate my intellectual curiosity.
+🔬🎓 With a solid foundation in biotechnology, having earned my degree, I am now on an exciting journey as a Master's in Engineering student, specializing in Bioinformatics. The realms of bioinformatics, biotechnology, and data science captivate my intellectual curiosity.
 
 🎪 Beyond academia, there's a circus artist within me! 🎩 I find immense joy in juggling, axe throwing and - believe it or not - deftly juggling axes! My passion for the circus arts knows no bounds.
 
